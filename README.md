@@ -1,8 +1,13 @@
 ### Hi there 👋
+I'm Florian and a JavaScript enthusiast. Currently, I am working on the amazing [OpenUI5](https://github.com/SAP/openui5) framework employeed by @SAP
+I studied Business Informatics and Computer Science in [Offenburg (Germany)](https://www.hs-offenburg.de//).
+
+![https://github-readme-stats.vercel.app/api?username=flovogt](https://github-readme-stats.vercel.app/api?username=flovogt)
+
 
 <!--
 **flovogt/flovogt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+After many *ugly* fights against [CSS](https://giphy.com/gifs/frustrated-annoyed-programming-yYSSBtDgbbRzq), I relocated to Munich, where I now work as a Developer Evangelist at Twilio. In this new role, I try to inspire my peer developers around the globe to connect their cloud-native apps with end-users via suitable communication channels.
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...

@@ -7,4 +7,4 @@ After more than 3 years having fun with SAP HANA®, SAP Business Technology Plat
 
 In 2020, I got the chance to join the awesome UI5 development team focussing on the UI5 Core. Since then having fun developing the latest features on the UI5 Core located in the black forest🌲.
 
-![https://github-readme-stats.vercel.app/api?username=flovogt&show_icons=true&theme=graywhite](https://github-readme-stats.vercel.app/api?username=flovogt&show_icons=true&theme=graywhite)
+![My Stats](https://github-readme-stats.vercel.app/api?username=flovogt&show_icons=true&theme=graywhite)

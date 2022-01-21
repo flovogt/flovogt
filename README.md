@@ -1,7 +1,7 @@
 ### Hi there 🐜
 I'm Florian, a JavaScript enthusiast. Currently, I'm focusing on the amazing [OpenUI5](https://github.com/SAP/openui5) framework employeed by [SAP](https://github.com/SAP).
 
-I studied Business Informatics and Computer Science at the [HS Offenburg (Germany)](https://www.hs-offenburg.de//) a great place to start your journey in the digital space 💻.
+I studied Business Informatics and Computer Science at the [HS Offenburg (Germany)](https://www.hs-offenburg.de//) a great place to start your journey in the digital space.
 
 After more than 3 years having fun with SAP HANA®, SAP Business Technology Platform® and UI5 as a working student, I started my fulltime career at [SAP](https://github.com/SAP) focussing on UI5 application development in various projects. 
 

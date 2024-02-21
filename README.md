@@ -6,5 +6,3 @@ I studied Business Informatics and Computer Science at the [HS Offenburg (German
 After more than 3 years having fun with SAP HANA®, SAP Business Technology Platform® and UI5 as a working student, I started my fulltime career at [SAP](https://github.com/SAP) focussing on UI5 application development in various projects. 
 
 In 2020, I got the chance to join the awesome UI5 development team focussing on the UI5 Core. Since then having fun developing the latest features on the UI5 Core located in the black forest🌲.
-
-![My Stats](https://github-readme-stats.vercel.app/api?username=flovogt&show_icons=true&theme=graywhite)
